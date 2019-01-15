@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tianluhua-spring-boot-starter/Tianluhua-spring-boot-starter.iml" filepath="$PROJECT_DIR$/Tianluhua-spring-boot-starter/Tianluhua-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tianluhua-spring-boot-starter-autoconfigrure/tianluhua-spring-boot-starter-autoconfigrure.iml" filepath="$PROJECT_DIR$/tianluhua-spring-boot-starter-autoconfigrure/tianluhua-spring-boot-starter-autoconfigrure.iml" />
+    </modules>
+  </component>
+</project>
